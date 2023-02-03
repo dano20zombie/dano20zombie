@@ -3,10 +3,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=dano20zombie)
 
 
-![dano20zombie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dano20zombie&show_icons=true&theme=tokyonight)
-
-
-
+![dano20zombie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dano20zombie&show_icons=true&theme=tokyonight?count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dano20zombie)
