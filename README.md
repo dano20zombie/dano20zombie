@@ -6,7 +6,7 @@
 ![dano20zombie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dano20zombie&show_icons=true&theme=transparent&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dano20zombie&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dano20zombie&layout=compact&theme=transparent)
 
 <!--
 **dano20zombie/dano20zombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
