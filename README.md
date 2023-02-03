@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dano20zombie)
+![trophy](https://github-profile-trophy.vercel.app/?username=dano20zombie&theme=onedark)
 
 
 ![dano20zombie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dano20zombie&show_icons=true&theme=transparent&count_private=true)
