@@ -1,12 +1,18 @@
-### Hi there 👋
+<p align="center">
+  Hi there 👋
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dano20zombie&theme=darkhub)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dano20zombie&theme=darkhub">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dano20zombie&show_icons=true&theme=transparent&count_private=true">
+</p>
 
-![dano20zombie's GitHub stats](https://github-readme-stats.vercel.app/api?username=dano20zombie&show_icons=true&theme=transparent&count_private=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dano20zombie&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dano20zombie&layout=compact&theme=transparent">
+</p>
 
 <!--
 **dano20zombie/dano20zombie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
