@@ -2,7 +2,9 @@
   Hi there 👋
 </p>
 
-### profile Visitors ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
+<p align="center">
+  Profile Visitors: <img src="https://visitor-badge.laobi.icu/badge?page_id=dano20zombie">
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dano20zombie&theme=darkhub">
